@@ -6,11 +6,10 @@ date: 2024-01-04T21:52:20+09:00
 categories: Linux
 summary: Linux Shell 주요 명령어를 살펴봅니다.
 keywords: Linux, Shell, command, linux command, shell command
+thumbnail: "/assets/img/thumbnails/linux/shell-commands.jpg"
 # permalink: /blog/linux-shell-commands
 comments: true
 tags: []
-cover: "assets/img/covers/linux/shell-commands.png"
-thumbnail: "/assets/img/thumbnails/linux/shell-commands.jpg"
 ---
 # 디렉터리
 ### ls
