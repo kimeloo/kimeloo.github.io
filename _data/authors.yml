@@ -1,4 +1,17 @@
 # Add Authors here
+kimeloo:
+   name: Eloo Kim
+   username: kimeloo
+   site: http://kimeloo.github.io
+   avatar: kimeloo.png
+   bio: "Hi I'm Eloo, a Back-End Developer."
+   email: kimeloo@yonsei.ac.kr
+   social:
+      - title: "github"
+        url: "https://github.com/kimeloo"
+      # - title: "linkedin"
+        # url: "https://www.linkedin.com/in/johndoe"
+
 johndoe:
    name: John Doe
    username: johndoe
