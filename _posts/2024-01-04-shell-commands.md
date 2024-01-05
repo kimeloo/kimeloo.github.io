@@ -9,6 +9,8 @@ keywords: Linux, Shell, command, linux command, shell command
 # permalink: /blog/linux-shell-commands
 comments: true
 tags: []
+cover: "assets/img/covers/linux/shell-commands.png"
+thumbnail: "/assets/img/thumbnails/linux/shell-commands.jpg"
 ---
 # 디렉터리
 ### ls

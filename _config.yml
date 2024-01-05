@@ -164,6 +164,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-admin
+  - mini_magick
+
+thumbnail:
+  resize_dimensions: '430x288^'
+  crop_dimensions: '430x288+0+0'
 
 # Jekyll Admin Config
 jekyll_admin:
