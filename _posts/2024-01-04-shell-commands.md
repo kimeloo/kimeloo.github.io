@@ -1,12 +1,12 @@
 ---
 layout: post
-author: johndoe
+author: kimeloo
 title: Shell 주요 명령어
-date: 2024-01-04T09:52:20.613Z
+date: 2024-01-04T21:52:20+09:00
 categories: Linux
-summary: Demo Content using Netlify CMS
-keywords: abcdefg
-permalink: /blog/linux-shell-commands
+summary: Linux Shell 주요 명령어를 살펴봅니다.
+keywords: Linux, Shell, command, linux command, shell command
+# permalink: /blog/linux-shell-commands
 comments: true
 tags: []
 ---
