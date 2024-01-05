@@ -7,9 +7,6 @@ gem 'backports', '~> 3.23'
 gem 'kramdown'
 gem 'puma'
 
-gem 'jekyll-archives'
-gem 'jekyll-paginate-v2'
-gem 'mini_magick'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
