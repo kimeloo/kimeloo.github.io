@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
-    backports (3.24.1)
+    backports (3.25.0)
     base64 (0.2.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
@@ -20,7 +20,9 @@ GEM
       faraday (~> 2.0)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.1)
+    google-protobuf (3.25.1-arm64-darwin)
+    google-protobuf (3.25.1-x86_64-darwin)
+    google-protobuf (3.25.1-x86_64-linux)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -130,7 +132,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  backports (~> 3.23)
+  backports (~> 3.25)
   bundler (~> 2.3.7)
   faraday-retry
   jekyll (~> 4.3.2)
